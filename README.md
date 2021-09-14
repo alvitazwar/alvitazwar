@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvitazwar
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning BDD with Gherkin
+- 🌱 I’m currently learning API automation using codeceptjs
 - 💞️ I’m looking to collaborate on Codeceptjs
 - 📫 How to reach me 
 
