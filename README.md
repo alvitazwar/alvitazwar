@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvitazwar&label=Profile%20views&color=0e75b6&style=flat" alt="alvitazwar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvitazwar" alt="alvitazwar" /></a> </p>
 
 - 🔭 I’m currently working on [appsero_automation](https://github.com/alvitazwar/appsero_automation)
 
