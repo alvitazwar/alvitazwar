@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvitazwar&label=Profile%20views&color=0e75b6&style=flat" alt="alvitazwar" /> </p>
 
 
-- 🔭 I’m currently working on [appsero_automation](https://github.com/alvitazwar/appsero_automation)
+- 🔭 I’m currently working on Jest_Automation
 
 - 🌱 I’m currently learning **Jest,Cucumber,Gherkin,Javascript**
 
