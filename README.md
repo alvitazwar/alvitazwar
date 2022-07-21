@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Alvi Tazwar</h1>
-<h3 align="center">A Software Engineer in Test</h3>
+<h3 align="center">Software Engineer in Test</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvitazwar&label=Profile%20views&color=0e75b6&style=flat" alt="alvitazwar" /> </p>
 
 
-- 🔭 I’m currently working on Jest_Automation
+- 🔭 I’m currently working on Jest for e2e and API automation
 
-- 🌱 I’m currently learning **Jest,Cucumber,Gherkin,Javascript**
+- 🌱 I’m currently learning **Playwright Javascript**
 
-- 👯 I’m currently collaborate on [Appsero/Tests](https://github.com/Appsero/tests)
+- 👯 I’m currently collaborate on [jest_supertest](https://github.com/alvitazwar/jest_supertest)
 
 - 📝 I regularly write articles on [medium](medium)
 
-- 💬 Ask me about **CodeceptJs,Cucumber,Gherkin**
+- 💬 Ask me about **Jest,SuperTest,CodeceptJs,Cucumber,Gherkin**
 
 - 📫 How to reach me **alvitazwar@gmail.com**
 
