@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvitazwar&label=Profile%20views&color=0e75b6&style=flat" alt="alvitazwar" /> </p>
 
 
-- 🔭 I’m currently working on Jest for e2e and API automation
+- 🔭 I’m currently working on Playwright for all types of testing
 
 - 🌱 I’m currently learning **Playwright Javascript**
 
