@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Playwright Javascript**
 
-- 👯 I’m currently collaborate on [jest_supertest](https://github.com/alvitazwar/jest_supertest)
+- 👯 I’m currently collaborate on [API_Playwright_Utils](https://github.com/rtCamp/api_playwright_utils)
 
 - 📝 I regularly write articles on [medium](medium)
 
