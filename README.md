@@ -10,9 +10,9 @@
 
 - 👯 I’m currently collaborate on [API_Playwright_Utils](https://github.com/rtCamp/api_playwright_utils)
 
-- 📝 I regularly write articles on [medium](medium)
+- 📝 I occasionally write articles on [medium](medium)
 
-- 💬 Ask me about **Jest,SuperTest,CodeceptJs,Cucumber,Gherkin**
+- 💬 Ask me about **Playwright, POM,Jest, SuperTest, CodeceptJs, Cucumber,Gherkin**
 
 - 📫 How to reach me **alvitazwar@gmail.com**
 
